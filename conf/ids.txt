@@ -1,0 +1,1 @@
+-deg14-N10000-q0.375-alpha0-fs0.005 -deg14-N10000-q0.375-alpha0-fs0.01 -deg14-N10000-q0.375-alpha0-fs0.02 -deg14-N10000-q0.375-alpha0-fs0.035 -deg14-N10000-q0.375-alpha0-fs0.05 -deg14-N10000-q0.625-alpha0-fs0.005 -deg14-N10000-q0.625-alpha0-fs0.01 -deg14-N10000-q0.625-alpha0-fs0.02 -deg14-N10000-q0.625-alpha0-fs0.035 -deg14-N10000-q0.625-alpha0-fs0.05

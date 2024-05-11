@@ -1,0 +1,1 @@
+{"nPeople":10000,"avDegree":14,"Beta":0.08,"p_a":0.04,"p_b":0.04,"c_op":10,"c_phys":7,"gamma":1,"eps_a":0.02,"eps_b":0.035,"prev_local_global":1,"initfOp_a":0.5,"nTraj":500,"T_f":50,"tBurn":100,"nDataPoints":100,"f_s":0.005,"f_e":0.0015,"k":1.8,"theta_a":7,"theta_b":7,"C_fat":0.05,"C_hs":2,"ldSwitch":1,"q":0.375,"alpha":0}
