@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function people = initOpinions(people, opNetRels, initfOp_a)
 	nPeople = size(people, 1);
 	nOp_a = floor(nPeople * initfOp_a);

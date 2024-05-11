@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function num=ClusteringCoef(A)
 % this function takes as the input an adjacency matrix and outputs the 
 % global clustering coefficient equal to 3

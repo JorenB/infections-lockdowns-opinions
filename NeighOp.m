@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function [Na,Nb]=NeighOp(People,FriendsIds)
 %the function produces the number of A believers and B believers in the
 %neighbourhoud of individual id

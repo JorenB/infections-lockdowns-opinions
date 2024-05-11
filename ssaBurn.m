@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function [t, y, people] = ssaBurn(people, opNetRels, physNetRels, cfg)
 	% this function generates burn in dynamics for the opinion dynamics and
 	% stops when the time counter reaches the value of cfg.tBurn

@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function res=ABTOPlot(pars)
 % this function outputs the time series for the coupled model of opinion 
 % competition with infection spread (SIR) without adaptive behavior or

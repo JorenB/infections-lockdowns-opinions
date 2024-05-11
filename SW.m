@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function A=SW(N,K,beta)
 % This function constructs a  graph using Watts-Strogatz algorithm
 %input: N: node cardinality, K: average degree, beta: rewiring

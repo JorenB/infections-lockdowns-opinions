@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 % This function calculates the average local clustering coefficient for a
 % network given by the adjacency matrix A
 function res=LCC(A)

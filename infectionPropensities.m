@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function a = infectionPropensities(people, opNetRels, physNetRels, ids, cfg)
 	%This function returns list a which contains propensities of an epidemiological event taking place
 	% for each individual in the list ids

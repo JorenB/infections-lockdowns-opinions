@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 % this script prepares configuration files used by the main bootstrap that run
 % the simulations and collect and analyze the data for the simulation where
 % infection and opinion co-circulate. The following parameters are varied:

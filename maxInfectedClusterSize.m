@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function s =  maxInfectedClusterSize(people, physNetRels) 
 	% augment physNetRels with infection status of each of the partners
 	physNetClust = [physNetRels(:,1:2)'; people(physNetRels(:,1), 3)'; people(physNetRels(:,2), 3)']';

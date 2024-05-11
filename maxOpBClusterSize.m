@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function s =  maxOpBClusterSize(people, opNetRels) 
 	% augment opNetRels with opinions of each of the partners
 	opNetClust = [opNetRels(:,1:2)'; people(opNetRels(:,1),2)'; people(opNetRels(:,2),2)']';

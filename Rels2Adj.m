@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function AdjM=Rels2Adj(Rels,N)
 % function that converts a reltionship matrix Rels to adjacency matrix in a
 % population with N individuals, which are assumed to have sequential ids

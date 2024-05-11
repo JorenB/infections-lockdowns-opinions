@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function fid = main(num)
 	% this is the main file that runs an ensemble of stochastic simulations
 	% using specifications provided by the configuration file number num (user

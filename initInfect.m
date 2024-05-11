@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function people = initInfect(people, initfInfected)
 	% this  function takes a list of people People and the number of infected
 	% individuals Ni and then randomly pick who will be infected, these are

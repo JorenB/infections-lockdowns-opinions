@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function [tRec, yRec, ldsRec, nTransmissions] = ssaHybrid(people, opNetRels, physNetRels, cfg)
 	%People=[id,op,ep,Na,Nd,Ninfect];id=1..N,op=0,1,ep=0,1,2
 

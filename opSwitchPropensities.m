@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function a = opSwitchPropensities(people, ids, cfg, nInfected, ldDuration)
 	%returns array a of size 1..numel(ids), where the list contains the people whose opinion propensities need to be recalculated
 	% input: population table people, parameter list pars, list of ids ids,

@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 % convert adjacency matrix to relationship list of the form [id1,id2]
 % the graph inducing the adjecency matrix does not have node self-loops
 % Theresulting list Rels is ordered lexographically

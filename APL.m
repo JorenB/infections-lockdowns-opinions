@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 % This function calculates the average path length for a
 % network given by the adjacency matrix A
 function res=APL(A)

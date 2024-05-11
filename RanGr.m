@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function [EdgeList] = RanGr(nNodes,p)
 %RanGr generates a random network which has nNodes, and each edge exists
 %with probability p, independent of existence of other edges

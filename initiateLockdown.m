@@ -1,3 +1,4 @@
+% Copyright 2024 Alexandra Teslya & Joren Brunekreef
 function [people, physNetRels] = initiateLockdown(people, physNetRels, cfg)
 	cuts = 0;
 	for i = 1:size(physNetRels, 1)
